@@ -1,7 +1,7 @@
 const Setting=()=>{
     return(
         <div>
-            ghj cvb
+            sfjsfjhferhkjeyqafsasvndbfmfd
         </div>
     )
 }
